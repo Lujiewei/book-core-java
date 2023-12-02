@@ -69,11 +69,11 @@ class ThreadedEchoHandler implements Runnable {
         }
     }
 
-    private String login (String usernam, String passwrod){
+    private String login(String usernam, String passwrod) {
         return "";
     }
-n
-    private boolean updatePwssaowrd (String usernam, String passwrod, String newasswrod){
+
+    private boolean updatePwssaowrd(String usernam, String passwrod, String newasswrod) {
         return true;
     }
 }
